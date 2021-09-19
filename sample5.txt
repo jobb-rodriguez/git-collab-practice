@@ -1,1 +1,3 @@
+trying to create a merge conflict
 sample5
+trying to create a merge conflict
