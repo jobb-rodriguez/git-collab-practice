@@ -8,3 +8,9 @@ git push
 
 Kian: sample4.txt > sample4
 Regina: sample5.txt > sample5
+
+Sample content here
+
+merge conflicts
+    - when you and another developer are editing the same file
+    - when developer A deletes a file that developer B is using
