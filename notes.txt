@@ -1,0 +1,10 @@
+git status
+
+git add .
+
+git commit -m "Random message"
+
+git push
+
+Kian: sample4.txt > sample4
+Regina: sample5.txt > sample5
