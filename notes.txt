@@ -14,3 +14,18 @@ Sample content here
 merge conflicts
     - when you and another developer are editing the same file
     - when developer A deletes a file that developer B is using
+git pull
+    git fetch + git merge
+
+    git fetch - dino-download yung content ng nasa remote repository
+    git merge - merges selected remote repository to your local repository
+
+    1. What if hindi mo pa gusto i-merge?
+        git fetch
+    2. What if hindi mo pa gusto i-commit yung changes na ginawa mo?
+        git stash
+
+git branch -a
+git checkout <branch_name>
+
+git stash save "Notes on Stash"
